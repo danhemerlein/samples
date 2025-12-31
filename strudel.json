@@ -15,5 +15,9 @@
     "vocoder-pad.mp3"
   ],
   "party-4-u": ["p4u-vocoder.mp3", "party-4-u-verse.mp3"],
-  "400-coffees": ["400-coffees-verse-1.mp3", "400-coffees-chorus-1.mp3"]
+  "400-coffees": [
+    "400-coffees-verse-1.mp3",
+    "400-coffees-chorus-1.mp3",
+    "400-coffees-verse-2.mp3"
+  ]
 }
