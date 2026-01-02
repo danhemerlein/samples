@@ -19,5 +19,14 @@
     "400-coffees-verse-1.mp3",
     "400-coffees-chorus-1.mp3",
     "400-coffees-verse-2.mp3"
+  ],
+  "wavparty": [
+    "wavparty-neuron-123-bpm-01.mp3",
+    "wavparty-neuron-123-bpm-02.mp3",
+    "wavparty-neuron-123-bpm-03.mp3",
+    "wavparty-neuron-123-bpm-04.mp3",
+    "wavparty-neuron-123-bpm-05.mp3",
+    "wavparty-neuron-123-bpm-06.mp3",
+    "wavparty-neuron-123-bpm-07.mp3"
   ]
 }
