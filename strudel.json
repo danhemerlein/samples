@@ -28,5 +28,6 @@
     "wavparty-neuron-123-bpm-05.mp3",
     "wavparty-neuron-123-bpm-06.mp3",
     "wavparty-neuron-123-bpm-07.mp3"
-  ]
+  ],
+  "detonate": ["vocal-fx-first-verse.mp3"]
 }
