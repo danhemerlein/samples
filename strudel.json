@@ -27,5 +27,6 @@
     "wavparty-neuron-123-bpm-06.mp3",
     "wavparty-neuron-123-bpm-07.mp3"
   ],
-  "detonate": ["detonate-chorus-lead.mp3"]
+  "detonate": ["detonate-chorus-lead.mp3"],
+  "petsmart": ["petsmart.mp3"]
 }
